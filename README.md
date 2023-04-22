@@ -3,6 +3,7 @@
 **Hardware:**
 - Jetson Nano B01
 - RPI Camera v2
+- Arduino Uno
 - OLED Display SSD1306
 - AC to DC Power Supply 5V 4A (Barrel connector Plug 5.5mm x 2.1mm)
 
