@@ -1,19 +1,21 @@
 # Jetson Nano Demo
 
 **Hardware:**
+
 - Jetson Nano B01
 - RPI Camera v2
 - AC to DC Power Supply 5V 4A (Barrel connector Plug 5.5mm x 2.1mm)
 
 **Software:**
+
 Ubuntu 18.04
-Jet Pack 4.6 image (download link: https://developer.nvidia.com/embedded/l4t/r32_release_v6.1/jeston_nano/jetson-nano-jp46-sd-card-image.zip)
-how to install image on Jetson Nano? (Instructions: https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write)
-Python 3.6.9 (Jetson Nano Default Version)
-libraries for inference:
+- Jet Pack 4.6 image (download link: https://developer.nvidia.com/embedded/l4t/r32_release_v6.1/jeston_nano/jetson-nano-jp46-sd-card-image.zip)
+- How to install image on Jetson Nano? (Instructions: https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write)
+- Python 3.6.9 (Jetson Nano Default Version)
+- Libraries for inference:
   - jetson.inference (follow provided tutorials to learn more)
   - jetson_uttils (follow provided tutorials to learn more)
-Other libraries
+- Other libraries
   - serial (for serial communication with Arduino Uno)
   - time
 
