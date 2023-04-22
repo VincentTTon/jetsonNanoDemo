@@ -17,7 +17,7 @@
   - serial (for serial communication with Arduino Uno)
   - time
 
-**Tutorials: **
+**Tutorials:**
 - How to Build the Hello AI Jetson Inference Project in Jetson https://youtu.be/RC_m7-cGw3o
 - How to train SSD MOBILENET DRAGON for Custom Object Detection for #jetson #nano https://youtu.be/fZiY7zUk3TU
 - Writing your own Python Detectnet Script for Jetson Inference | Nvidia Jetson https://youtu.be/1PbfaaZCo2Y
