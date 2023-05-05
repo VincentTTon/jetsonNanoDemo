@@ -11,9 +11,8 @@ while True:
     inputsArduino = [1, 2, 3, 4, 5, 6, 7, 8] 
     
     #Converts int values to string
-    strInputs = []
-    for i in inputsArduino:
-        strInputs.append(str(i))
+    strInputs = [str(input) for input in inputsArduino]
+    
         
     #Sends each value from the strInputs list
     for j in strInputs:
